@@ -18,7 +18,7 @@ A simple and responsive web application that helps users find jobs based on titl
 
 ## Installation
 
-git clone https://github.com/your-username/job-finder-app.git
+git clone https://github.com/sunilkumar-2004/Job_Finder.git
 cd job-finder-app
 
 backend:
